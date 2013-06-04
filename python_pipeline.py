@@ -3,7 +3,7 @@
 
 # <codecell>
 
-%pylab inline
+pylab inline
 import numpy as np
 
 f = open('Lumi.2760.csv')
